@@ -1,0 +1,40 @@
+@import './theme.css';
+@import './font.css';
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    min-height: 100vh;
+
+    color: var(--grey-800);
+    background-color: var(--grey-50);
+
+    font-family: var(--main-font);
+    font-size: var(--fontsize-normal);
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4 {
+    font-size: var(--fontsize-medium);
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    color: unset;
+    text-decoration: none;
+}
+
+button {
+    cursor: pointer;
+    background-color: transparent;
+    border: unset;
+}

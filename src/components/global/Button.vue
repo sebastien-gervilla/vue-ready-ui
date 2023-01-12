@@ -23,7 +23,7 @@ export default {
 
         border: 1px solid;
         border-radius: 4px;
-        font-size: var(--fontsize-medium);
+        font-size: var(--fontsize-normal);
 
         &:disabled {
             cursor: not-allowed;

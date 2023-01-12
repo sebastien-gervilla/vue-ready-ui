@@ -1,0 +1,13 @@
+:root {
+    --main-font: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+
+    --fontsize-smaller: 12px;
+    --fontsize-small: 14px;
+    --fontsize-normal: 16px;
+    --fontsize-medium: 20px;
+    --fontsize-large: 28px;
+    --fontsize-larger: 36px;
+    --fontsize-largest: 52px;
+}

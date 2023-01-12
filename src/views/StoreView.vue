@@ -1,5 +1,5 @@
 <template>
-    <PageLayout id="home-page">
+    <PageLayout id="store-page">
         
     </PageLayout>
 </template>

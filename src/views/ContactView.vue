@@ -1,5 +1,5 @@
 <template>
-    <PageLayout id="home-page">
+    <PageLayout id="contact-page">
         
     </PageLayout>
 </template>

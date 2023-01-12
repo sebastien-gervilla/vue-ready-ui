@@ -32,6 +32,8 @@
     --grey-700: #3b3b3b;
     --grey-800: #1C1C1C;
     --grey-900: #050505;
+
+    --main-shadow: rgba(80, 80, 80, 0.2) 0 0 40px 4px;
 }
   
 [data-theme="dark"] {

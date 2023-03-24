@@ -1,1 +1,1 @@
-# `npx create-ready-ui --vue`
+# `npx create-ready-ui <path> --vue`

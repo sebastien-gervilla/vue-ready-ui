@@ -1,1 +1,1 @@
-# Alors faut faire `npx create-vulve-ui <path>`
+# `npx create-ready-ui <path> --vue`
